@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+<!--I'm Sumit Ranjan
+
+🔭 Final year Computer science student pursuing B.Tech.; Computer Science Engineering.
+💻 C++ | DSA | HTML | CSS | JavaScript | React | Redux| NodeJS .
+🌱 I’m currently learning backend Development and exploring Machnie Learning and Artificial intelligence.
 **ranjanxsumit/ranjanxsumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
