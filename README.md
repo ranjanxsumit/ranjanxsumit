@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--I'm Sumit Ranjan
+I'm Sumit Ranjan
 
 🔭 Final year Computer science student pursuing B.Tech.; Computer Science Engineering.
 💻 C++ | DSA | HTML | CSS | JavaScript | React | Redux| NodeJS .
