@@ -1,24 +1,42 @@
-## Hi there 👋
+### 👋 Hello, I'm Sumit Ranjan
 
-I'm Sumit Ranjan
-
-🔭 Final year Computer science student pursuing B.Tech.; Computer Science Engineering.
+I’m a graduate with a **Bachelor of Technology in Computer Science and Engineering**, passionate about **backend development**, **web technologies**, and **AI/ML**. I specialize in building dynamic, scalable applications and enjoy contributing to meaningful software solutions through team collaboration and innovation.
 
 
-💻 C++ | DSA | HTML | CSS | JavaScript | React | Redux| NodeJS .
+---
 
+🔧 **Tech Toolkit**
+- **Languages:** C++, Python, JavaScript (ES6+), TypeScript, SQL
+- **Web Stack:** HTML/CSS, React.js, Redux, Next.js, Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git/GitHub, AWS, Google Cloud, Socket.io, JWT
+- **Concepts:** Data Structures & Algorithms, OOP, Responsive Design, System Design
 
-🌱 I’m currently learning backend Development and exploring Machnie Learning and Artificial intelligence.
-**ranjanxsumit/ranjanxsumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🛠 **Projects**
+- 🧵 [ChildMind Monitor](https://github.com/ranjanxsumit/community-forum): A full-stack student community portal using ReactJS, NodeJS & MongoDB with features like tagging, upvotes, secure JWT auth, and a dynamic feed.
+- 💬 [Samwaad Chat App](https://github.com/ranjanxsumit/samwaad-chat-app/tree/main): A real-time chat application built with Socket.io and MongoDB, enabling multi-client communication and authentication.
+- 🧾 Student Report Card System: Developed in C++ with OOP and MySQL, focusing on robust data management and usability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📚 **Certifications & Learning**
+- Frontend & Backend Web Development (JavaScript, APIs, Visualization)
+- AWS Cloud Practitioner Essentials – Completed hands-on labs with EC2, S3, Athena & IAM
+- Exploring AI/ML using Python and cloud-based services
+
+---
+
+🎯 **What I’m Working On**
+- Enhancing backend performance and scalability on real-world projects
+- Diving deeper into **AI tools** like Microsoft Copilot to augment development workflows
+- Strengthening my grasp of system design and automated testing
+
+---
+
+📫 **Let's Connect**
+- 📧 ranjanxsumit@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ranjanxsumit/) 
+- 🧠 Always curious to collaborate on new ideas, learn from others, and solve meaningful problems
+
