@@ -17,7 +17,7 @@ I’m a graduate with a **Bachelor of Technology in Computer Science and Enginee
 
 🛠 **Projects**
 - 🧵 [ChildMind Monitor](https://childmind-community-forum.netlify.app/): A full-stack student community portal using ReactJS, NodeJS & MongoDB with features like tagging, upvotes, secure JWT auth, and a dynamic feed.
-- 💬 [Samwaad Chat App](https://sumit-samwaad-chatapp.netlify.app/login): A real-time chat application built with Socket.io and MongoDB, enabling multi-client communication and authentication.
+- 💬 [Samwaad Chat App](https://sumit-samwaad-chatapp.netlify.app/): A real-time chat application built with Socket.io and MongoDB, enabling multi-client communication and authentication.
 - 🧾 Student Report Card System: Developed in C++ with OOP and MySQL, focusing on robust data management and usability.
 
 ---
