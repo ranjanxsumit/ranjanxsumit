@@ -8,7 +8,7 @@ I’m a graduate with a **Bachelor of Technology in Computer Science and Enginee
 
 🔧 **Tech Toolkit**
 - **Languages:** C++, Python, JavaScript (ES6+), TypeScript, SQL
-- **Web Stack:** HTML/CSS, React.js, Redux, Next.js, Node.js, Express.js
+- **Web Stack:** HTML/CSS, React.js, Redux, Next.js, Node.js, Express.js, FastAPI
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git/GitHub, AWS, Google Cloud, Socket.io, JWT
 - **Concepts:** Data Structures & Algorithms, OOP, Responsive Design, System Design
